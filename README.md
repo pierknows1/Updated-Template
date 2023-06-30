@@ -1,6 +1,6 @@
 # Node Template
 
-By: Stella Marie
+By: 
 
 Template repo for Node.js project with Webpack, ESLint, Babel, and Jest.
 
